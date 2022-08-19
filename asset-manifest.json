@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Blockchain-voting-dapp/static/css/main.2ae47eeb.chunk.css",
+    "main.js": "/Blockchain-voting-dapp/static/js/main.0b5d690a.chunk.js",
+    "main.js.map": "/Blockchain-voting-dapp/static/js/main.0b5d690a.chunk.js.map",
+    "runtime-main.js": "/Blockchain-voting-dapp/static/js/runtime-main.28649131.js",
+    "runtime-main.js.map": "/Blockchain-voting-dapp/static/js/runtime-main.28649131.js.map",
+    "static/js/2.9f6ef4eb.chunk.js": "/Blockchain-voting-dapp/static/js/2.9f6ef4eb.chunk.js",
+    "static/js/2.9f6ef4eb.chunk.js.map": "/Blockchain-voting-dapp/static/js/2.9f6ef4eb.chunk.js.map",
+    "static/js/3.cc2820df.chunk.js": "/Blockchain-voting-dapp/static/js/3.cc2820df.chunk.js",
+    "static/js/3.cc2820df.chunk.js.map": "/Blockchain-voting-dapp/static/js/3.cc2820df.chunk.js.map",
+    "index.html": "/Blockchain-voting-dapp/index.html",
+    "static/css/main.2ae47eeb.chunk.css.map": "/Blockchain-voting-dapp/static/css/main.2ae47eeb.chunk.css.map",
+    "static/js/2.9f6ef4eb.chunk.js.LICENSE.txt": "/Blockchain-voting-dapp/static/js/2.9f6ef4eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28649131.js",
+    "static/js/2.9f6ef4eb.chunk.js",
+    "static/css/main.2ae47eeb.chunk.css",
+    "static/js/main.0b5d690a.chunk.js"
+  ]
+}
