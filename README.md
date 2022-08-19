@@ -19,7 +19,7 @@ This project is a simple implementation of a voting system done to understand th
 
 ### Step 1. Clone the project
 
-```git clone https://github.com/immortal-vijith/Blockchain-voting-Dapp```
+```git clone https://github.com/immortal-vijith/Blockchain-voting-dapp```
 
 ### Step 2. Start Ganache
 
